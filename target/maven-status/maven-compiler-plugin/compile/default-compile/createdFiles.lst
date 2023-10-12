@@ -1,0 +1,5 @@
+io\alexpbsj\gameLogger\model\Game.class
+io\alexpbsj\gameLogger\service\GameService.class
+io\alexpbsj\gameLogger\GameLoggerApplication.class
+io\alexpbsj\gameLogger\repository\GameRepository.class
+io\alexpbsj\gameLogger\controller\GameController.class
